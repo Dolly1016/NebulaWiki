@@ -1,0 +1,69 @@
+#表示名;リンク先ファイル名 の順に記載してください。
+#特にリンク先ファイル名について、意図しない空白にご注意ください。
+*crewmates
+エージェント (Agent);agent
+ベイト (Bait);bait
+バスカー (Busker);busker
+カノン (Cannon) <bdg s>;cannon
+コレイター (臨床検査技師, Collator) <bdg n>;collator
+コメット (Commet);commet
+ドクター (Doctor);doctor
+ジャスティス (天秤, Justice) <bdg n>;justice
+マッドメイト (Madmate);madmate
+メイヤー (Mayor);mayor
+ネクロマンサー (Necromancer);necromancer
+ナイスゲッサー (Nice Guesser);niceGuesser
+ナイストラッパー (Nice Trapper);niceTrapper
+ノイズメーカー (Noisemaker);noisemaker
+ホスフォラス (Phosphorus);phosphorus
+プロヴォケーター (Provocateur);provocateur
+シア (Seer);seer
+シェリフ (Sheriff);sheriff
+ユビキタス (Ubiquitous);ubiquitous
+*impostors
+エイリアン (コウモリ, Alien) <bdg n>;alien
+バウンティハンター (Bounty Hunter);bountyHunter
+カモフラージャー (Camouflager);camouflager
+クリーナー (Cleaner);cleaner
+デストロイヤー (Destroyer);destroyer
+ディスターバー (Disturber);disturber
+イフェイサー (ジャマー, Effacer) <bdg n>;effacer
+イビルゲッサー (Evil Guesser);evilGuesser
+イビルトラッカー (Evil Tracker);evilTracker
+ハダル (Hadar);hadar
+イリュージョナー (Illusioner);illusioner
+ジェイラー (Jailer);jailer
+マリオネット (Marionette);marionette
+モーフィング (Morphing);morphing
+ペインター (Painter);painter
+レイダー (Raider);raider
+リーパー (Reaper);reaper
+スナイパー (Sniper);sniper
+スターラー (Stirrer);stirrer
+*neutral
+アーソニスト (Arsonist);arsonist
+チェインシフター (Chain Shifter);chainShifter
+ダンサー (Dancer);dancer
+ジャッカル (Jackal);jackal
+└サイドキック (Sidekick);sidekick
+ジェスター (Jester);jester
+パパラッチ (Paparazzo);paparazzo
+ヴァルチャー (Vulture);vulture
+*modifiers
+ブラッディ (Bloody);bloody
+コンフューズド (無能, Confused);confused
+ダムド (Damned);damned
+追加ミッション (Extra Mission);extraMission
+ゲッサー (Guesser);guesser
+ジェイラー (Jailer);modifierJailer
+ラバー (Lover);lover
+└アヴェンジャー (Avenger);avenger
+オブセッショナル (Obsessional);obsessional
+シークレット (Secret);secret
+タイブレイカー (Tie Breaker);tieBreaker
+*ghostRoles
+クロッグ (Clog) <bdg s>;clog
+グラッジ (Grudge) <bdg s>;grudge
+ルーミン (Lumine);lumine
+ノイズゴースト (Noiseghost);noiseghost
+ポルターガイスト (Poltergeist);poltergeist

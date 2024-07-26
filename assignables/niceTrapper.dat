@@ -1,0 +1,23 @@
+*abstract
+$nameJp
+ナイストラッパー
+$nameEn
+Nice Trapper
+*configurations
+探知トラップの設置コスト|探知トラップの設置に必要なコスト数を変更できます。
+探知トラップの当たり判定|探知トラップの当たり判定の大きさを指定できます。
+*summary
+ナイストラッパーは加速トラップや通知トラップなど、さまざまなトラップを設置できるクルーメイトです。
+設置したトラップは、会議を挟むと有効化されます。
+*ability
+$withImage
+images/accelTrapButton.png
+加速トラップを設置します。
+$withImage
+images/decelTrapButton.png
+減速トラップを設置します。
+$withImage
+images/commTrapButton.png
+通知トラップを設置します。
+このトラップは他のプレイヤーからは視認されません。
+トラップの上を通ったプレイヤーが矢印で通知されます。

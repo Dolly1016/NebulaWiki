@@ -1,0 +1,14 @@
+*abstract
+$nameJp
+ルーミン
+$nameEn
+Lumine
+*configurations
+光の大きさ|ルーミンがつくる光の大きさを設定できます。
+光の有効時間|ルーミンがつくる光の持続時間を設定できます。
+*summary
+ルーミンは光をともして生存者により多くの視認情報をもたらすクルーメイト幽霊役職です。
+*ability
+$withImage
+images/lumineButton.png
+その場に光をともします。

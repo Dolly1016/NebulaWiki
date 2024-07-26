@@ -1,0 +1,12 @@
+*abstract
+$nameJp
+リーパー
+$nameEn
+Reaper
+*summary
+リーパーは死体を引きずって運ぶことができるインポスターです。
+また、マップ内のすべてのベントが繋がり、ベント間の移動が自由自在になります。
+*ability
+$withImage
+images/dragAndDropButton.png
+死体を掴み/離します。死体を掴んだままベントに入ることもできます。

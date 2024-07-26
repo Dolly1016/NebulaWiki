@@ -1,0 +1,14 @@
+*abstract
+$nameJp
+クリーナー
+$nameEn
+Cleaner
+*configurations
+消去クールダウン|死体の消去能力のクールダウンを設定できます。
+キルと能力クールダウンの同期|オンにすると、キルか消去をすると双方のクールダウンがともにリセットされます。
+*summary
+クリーナーは死体を消し去ることができるインポスターです。
+*ability
+$withImage
+images/cleanButton.png
+死体を消去します。

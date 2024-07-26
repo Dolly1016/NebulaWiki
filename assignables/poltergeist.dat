@@ -1,0 +1,14 @@
+*abstract
+$nameJp
+ポルターガイスト
+$nameEn
+Poltergeist
+*configurations
+ポルターガイストクールダウン|死体を引き寄せるポルターガイスト能力のクールダウンを設定できます。
+*summary
+ポルターガイストは死体を自身のもとに引き寄せることができる幽霊役職です。
+*ability
+$withImage
+images/poltergeistButton.png
+死体を手元に引き寄せます。
+自身の身体を引き寄せたい場所に運んだうえで使用しましょう。

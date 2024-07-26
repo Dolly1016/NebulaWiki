@@ -1,0 +1,23 @@
+*abstract
+$nameJp
+エイリアン
+$nameEn
+Alien
+*configurations
+E.M.I.クールダウン|E.M.I.能力のクールダウンを設定できます。
+E.M.I.効果時間|E.M.I.能力の効果時間を設定できます。
+無効化クールダウン|無効化能力を使用するクールダウンを設定できます。
+無効化使用可能回数|無効化能力を使用できる回数を設定できます。<br>ここで指定した数だけ、情報端末からプレイヤーを消し去ることができます。
+*summary
+エイリアンは情報端末の更新を停止させたり、情報端末からプレイヤーの存在を消し去ってしまうことができるインポスターです。
+*ability
+$withImage
+images/emiButton.png
+E.M.I.を発動し、しばらくの間、情報端末の更新を停止させます。
+$withImage
+images/alienButton.png
+プレイヤーに対して使用できます。
+プレイヤーを情報端末上から消し去ります。
+*tips
+$superNewRolesCollab
+この役職は<a href="https://github.com/SuperNewRoles/SuperNewRoles" class="link-secondary">SuperNewRoles</a>コラボ役職です。

@@ -1,0 +1,25 @@
+*abstract
+$nameJp
+ホスフォラス
+$nameEn
+Phosphorus
+*configurations
+ランプの数|設置できるランプの個数を設定できます。
+設置クールダウン|ランプの設置のクールダウンを設定できます。
+ランプのクールダウン|ランプ点灯のクールダウンを設定できます。
+ランプの有効時間|ランプの点灯時間を設定できます。
+ランプの光の大きさ|点灯したランプがつくる視界の大きさを設定できます。
+*summary
+ホスフォラスは周囲を照らすランタンを設置できるクルーメイトです。
+ランタンの光は、壁を隔てて視界をもたらします。
+*ability
+$withImage
+images/lanternPlaceButton.png
+ランタンを設置します。
+ランタンは、すべて設置したあと会議を挟むと有効化されます。
+$withImage
+images/lanternButton.png
+ランタンを点灯させます。
+*tips
+$superNewRolesCollab
+この役職は<a href="https://github.com/SuperNewRoles/SuperNewRoles" class="link-secondary">SuperNewRoles</a>コラボでSNRにも登場しました。

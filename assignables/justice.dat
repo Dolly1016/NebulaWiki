@@ -1,0 +1,14 @@
+*abstract
+$nameJp
+ジャスティス
+$nameEn
+Justice
+*configurations
+ジャスティス自身を審判に掛ける|オンにすると、審判に掛ける二人のうち一人を自分自身にします。
+*summary
+ジャスティスは選んだ二人に投票先を絞る<b>審判の会議</b>を起こすことができます。
+審判の会議ではスキップができず、同数投票になると選ばれた二人がどちらも追放されます。
+選んだ二人のうち少なくとも一人は必ず追放に持ち込める、強力な能力を持ったクルーメイトです。
+*tips
+$superNewRolesCollab
+この役職は<a href="https://github.com/SuperNewRoles/SuperNewRoles" class="link-secondary">SuperNewRoles</a>コラボ役職です。

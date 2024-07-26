@@ -1,0 +1,24 @@
+*abstract
+$nameJp
+バスカー
+$nameEn
+Busker
+*configurations
+偽装死クールダウン|偽装死ができるようになるまでのクールダウンです。
+偽装死の有効時間|偽装死から復活までの制限時間(=猶予)です。
+バイタル上での偽装死の隠蔽|オンに設定すると、偽装死から復活(or 復活失敗)までの間、バイタル上で生存しているかのように表示させることができます。
+*summary
+バスカーは偽装死によって少しのあいだ幽霊になって移動できる<b>大道芸</b>ができます。
+しかし、偽装死から復活までの時間には制限があり、生き返らないまま制限時間を過ぎたり、会議が始まってしまうと生き返れなくなってしまいます。
+*ability
+$withImage
+images/buskerPseudocideButton.png
+<b>偽装死</b>をします。その場には死体が残ります。
+この段階で、周囲のプレイヤーは偽装死と他の理由による死亡を区別できません。
+$withImage
+images/buskerReviveButton.png
+その場に復活します。このとき、偽装死の際に発生した死体は無くなります。
+<u>船外では復活できません。</u>
+*tips
+$superNewRolesCollab
+この役職は<a href="https://github.com/SuperNewRoles/SuperNewRoles" class="link-secondary">SuperNewRoles</a>コラボでSNRにも登場しました。

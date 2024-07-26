@@ -1,0 +1,14 @@
+*abstract
+$nameJp
+ヴァルチャー
+$nameEn
+Vulture
+*configurations
+捕食クールダウン|捕食のクールダウンを設定できます。
+勝利に必要な死体の捕食数|指定した数の死体を捕食すれば勝利します。
+*summary
+ヴァルチャーは死体を捕食して消し去ることができる第三陣営です。
+*ability
+$withImage
+images/eatButton.png
+死体を捕食します。

@@ -1,0 +1,12 @@
+*abstract
+$nameJp
+ノイズゴースト
+$nameEn
+Noiseghost
+*summary
+ノイズゴーストはどこでもアラートを鳴らせる幽霊役職です。
+味方のサポートのため、あるいは敵の攪乱のために活用しましょう。
+*ability
+$withImage
+images/ghostNoiseButton.png
+その場でアラートを鳴らします。

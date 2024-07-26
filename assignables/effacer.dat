@@ -1,0 +1,19 @@
+*abstract
+$nameJp
+イフェイサー
+$nameEn
+Effacer
+*configurations
+透明化クールダウン|透明化能力のクールダウンを設定できます。
+透明化効果時間|透明化の効果時間を設定できます。
+*summary
+イフェイサーは他のプレイヤーを透明化させることができるインポスターです。
+相方のインポスターを透明にさせたり、無実のクルーメイトを透明にさせたり、さまざまな使い方ができます。
+*ability
+$withImage
+images/effaceButton.png
+プレイヤーに対して使用できます。
+プレイヤーを透明化させます。
+*tips
+$superNewRolesCollab
+この役職は<a href="https://github.com/SuperNewRoles/SuperNewRoles" class="link-secondary">SuperNewRoles</a>コラボ役職です。
