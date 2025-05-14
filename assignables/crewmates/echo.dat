@@ -1,0 +1,17 @@
+*abstract
+$nameJp
+エコー
+$nameEn
+Echo
+*configurations
+エコークールダウン|エコーを飛ばせるまでのクールダウンです。
+エコーの効果範囲|エコーでプレイヤーを探知できる範囲を設定します。
+*summary
+エコーは周囲のプレイヤーの位置を探ったり、船内で起こったアクションを感知できます。
+*ability
+$withImage
+images/echoButton.png
+周囲のプレイヤーを探知します。
+$withImage
+images/echoIcon.png
+船内でアクションが起こるとエコーの画面にアイコンが出現し、どこでアクションが起こったか知らせます。

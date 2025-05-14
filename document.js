@@ -8,8 +8,8 @@ async function deserializeAsasignableData(assignable){
     var tips = []
     var configurations = []
     var abstract = {
-        nameJp : '未設定',
-        nameEn : 'Undefined',
+        nameJp : 'ページが見つかりませんでした。',
+        nameEn : 'Not found, sorry.',
         color : '#FFFFFF',
         blurb : 'Undefined'
     }

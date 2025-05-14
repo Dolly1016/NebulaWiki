@@ -1,0 +1,15 @@
+*abstract
+$nameJp
+ハルシネーション
+$nameEn
+Hallucination
+*configurations
+幻像クールダウン|幻像を呼び出すクールダウンを設定します。
+幻像の操作可能時間|幻像を操作できる時間の長さを設定します。
+幻像の召喚回数|ゲーム中に幻像を呼び出せる最大階数を設定します。
+*summary
+ハルシネーションは自在に歩く幻像を見せて生存者を混乱させるインポスター幽霊役職です。
+*ability
+$withImage
+images/hallucinationButton.png
+その場に幻影を呼び出します。

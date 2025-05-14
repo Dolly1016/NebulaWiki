@@ -1,6 +1,7 @@
 #表示名;リンク先ファイル名 の順に記載してください。
 #特にリンク先ファイル名について、意図しない空白にご注意ください。
 *crewmates
+<<<<<<< HEAD
 エージェント (Agent);agent
 ベイト (Bait);bait
 バスカー (Busker);busker
@@ -20,50 +21,118 @@
 シア (Seer);seer
 シェリフ (Sheriff);sheriff
 ユビキタス (Ubiquitous);ubiquitous
+=======
+エージェント (Agent);crewmates/agent
+ベイト (Bait);crewmates/bait
+バスカー (Busker);crewmates/busker
+クライマー (Climber) <bdg n>;crewmates/climber
+コレイター (臨床検査技師, Collator);crewmates/collator
+コメット (Comet);crewmates/comet
+ドクター (Doctor);crewmates/doctor
+エコー (Echo);crewmates/echo
+インヴェスティゲーター (Investigator);crewmates/investigator
+ジキルとハイド (Jekyll & Hyde);crewmates/jekyllAndHyde
+ジャスティス (天秤, Justice);crewmates/justice
+マッドメイト (Madmate);crewmates/madmate
+メイヤー (Mayor);crewmates/mayor
+ナヴィ (Navvy);crewmates/navvy
+ネクロマンサー (Necromancer);crewmates/necromancer
+ナイスゲッサー (Nice Guesser);crewmates/niceGuesser
+ナイストラッパー (Nice Trapper);crewmates/niceTrapper
+ノイズメーカー (Noisemaker);crewmates/noisemaker
+オラクル (Oracle);crewmates/oracle
+ホスフォラス (Phosphorus);crewmates/phosphorus
+プロヴォケーター (Provocateur);crewmates/provocateur
+サイキック (Psychic);crewmates/psychic
+シア (Seer);crewmates/seer
+シェリフ (Sheriff);crewmates/sheriff
+ユビキタス (Ubiquitous);crewmates/ubiquitous
+>>>>>>> f7ac59b (最新版の情報に更新)
 *impostors
-エイリアン (コウモリ, Alien) <bdg n>;alien
-バウンティハンター (Bounty Hunter);bountyHunter
-カモフラージャー (Camouflager);camouflager
-クリーナー (Cleaner);cleaner
-デストロイヤー (Destroyer);destroyer
-ディスターバー (Disturber);disturber
-イフェイサー (ジャマー, Effacer) <bdg n>;effacer
-イビルゲッサー (Evil Guesser);evilGuesser
-イビルトラッカー (Evil Tracker);evilTracker
-ハダル (Hadar);hadar
-イリュージョナー (Illusioner);illusioner
-ジェイラー (Jailer);jailer
-マリオネット (Marionette);marionette
-モーフィング (Morphing);morphing
-ペインター (Painter);painter
-レイダー (Raider);raider
-リーパー (Reaper);reaper
-スナイパー (Sniper);sniper
-スターラー (Stirrer);stirrer
+エイリアン (コウモリ, Alien);impostors/alien
+バーサーカー (Berserker);impostors/berserker
+バウンティハンター (Bounty Hunter);impostors/bountyHunter
+バブルガン (Bubblegun);impostors/bubblegun
+カモフラージャー (Camouflager);impostors/camouflager
+カノン (Cannon);impostors/cannon
+クリーナー (Cleaner);impostors/cleaner
+デストロイヤー (Destroyer);impostors/destroyer
+ディスターバー (Disturber);impostors/disturber
+イフェイサー (ジャマー, Effacer);impostors/effacer
+イビルゲッサー (Evil Guesser);impostors/evilGuesser
+イビルトラッカー (Evil Tracker);impostors/evilTracker
+イビルトラッパー (Evil Trapper);impostors/evilTrapper
+ハダル (Hadar);impostors/hadar
+イリュージョナー (Illusioner);impostors/illusioner
+ジェイラー (Jailer);impostors/jailer
+マリオネット (Marionette);impostors/marionette
+モーフィング (Morphing);impostors/morphing
+ナイトメア (Nightmare);impostors/nightmare
+ペインター (Painter);impostors/painter
+クアック (Quack) <bdg n>;impostors/quack
+レイダー (Raider);impostors/raider
+リーパー (Reaper);impostors/reaper
+スナッチャー (Snatcher) <bdg s>;impostors/snatcher
+スナイパー (Sniper);impostors/sniper
+スターラー (Stirrer);impostors/stirrer
+サリファー (Thurifer);impostors/thurifer
+ワーミー (Whammy) <bdg n>;impostors/whammy
 *neutral
-アーソニスト (Arsonist);arsonist
-チェインシフター (Chain Shifter);chainShifter
-ダンサー (Dancer);dancer
-ジャッカル (Jackal);jackal
-└サイドキック (Sidekick);sidekick
-ジェスター (Jester);jester
-パパラッチ (Paparazzo);paparazzo
-ヴァルチャー (Vulture);vulture
+アーソニスト (Arsonist);neutral/arsonist
+チェインシフター (Chain Shifter);neutral/chainShifter
+ダンサー (Dancer);neutral/dancer
+ギャンブラー (Gambler) <bdg s>;neutral/gambler
+ジャッカル (Jackal);neutral/jackal
+└ サイドキック (Sidekick);neutral/sidekick
+ジェスター (Jester);neutral/jester
+パパラッチ (Paparazzo);neutral/paparazzo
+スカーレット (Scarlet);neutral/scarlet
+妖狐 (Spectre);neutral/spectre
+├ 子狐 (S. Follower);neutral/spectreFollower
+└ 背徳者 (Immoralist);neutral/immoralist
+ヴァルチャー (Vulture);neutral/vulture
 *modifiers
-ブラッディ (Bloody);bloody
-コンフューズド (無能, Confused);confused
-ダムド (Damned);damned
-追加ミッション (Extra Mission);extraMission
-ゲッサー (Guesser);guesser
-ジェイラー (Jailer);modifierJailer
-ラバー (Lover);lover
-└アヴェンジャー (Avenger);avenger
-オブセッショナル (Obsessional);obsessional
-シークレット (Secret);secret
-タイブレイカー (Tie Breaker);tieBreaker
+ブラッディ (Bloody);modifiers/bloody
+コンフューズド (無能, Confused);modifiers/confused
+ダムド (Damned);modifiers/damned
+ディスクロージャ (Disclosure);modifiers/disclosure
+追加ミッション (Extra Mission);modifiers/extraMission
+ゲッサー (Guesser);modifiers/guesser
+ジェイラー (Jailer);modifiers/jailer
+ラバー (Lover);modifiers/lover
+└ アヴェンジャー (Avenger);neutral/avenger
+マッドメイト (Madmate);modifiers/madmate
+オブセッショナル (Obsessional);modifiers/obsessional
+シークレット (Secret);modifiers/secret
+タイブレイカー (Tie Breaker);modifiers/tieBreaker
+トリレンマ (Trilemma);modifiers/trilemma
 *ghostRoles
-クロッグ (Clog) <bdg s>;clog
-グラッジ (Grudge) <bdg s>;grudge
-ルーミン (Lumine);lumine
-ノイズゴースト (Noiseghost);noiseghost
-ポルターガイスト (Poltergeist);poltergeist
+クロッグ (Clog);ghostRoles/clog
+ハルシネーション (Hallucination);ghostRoles/hallucination
+グラッジ (Grudge);ghostRoles/grudge
+ルーミン (Lumine);ghostRoles/lumine
+ポルターガイスト (Poltergeist);ghostRoles/poltergeist
+ノイズゴースト (Noiseghost);ghostRoles/noiseghost
+*commonPerks
+俊敏;commonPerks/agile
+声高な主張;commonPerks/insistence
+緊急招集;commonPerks/emergencyCall
+ようこそ鏡の世界へ;commonPerks/behindTheMirror
+下剋上の機;commonPerks/revolution
+逆転劇;commonPerks/plotTwist
+放つ存在感;commonPerks/presence
+フックショット <bdg n>;commonPerks/hookshot
+並行宇宙の旅人;commonPerks/transcendent
+可能性の増幅;commonPerks/amplifying
+輝く水晶玉;commonPerks/crystalGazing
+刑事の薄汚れたレポート;commonPerks/detectiveReport
+再計算;commonPerks/recalculation
+変容する宇宙船;commonPerks/transformingSpaceship
+*evilPerks
+死のメテオストーム;evilPerks/meteorStorm
+風見鶏 -赤-;evilPerks/crabWalking
+風見鶏 -青-;evilPerks/HeavenOrHell
+昏迷;evilPerks/disorder
+拘束;evilPerks/restraint
+憤怒;evilPerks/rampage
+空砲;evilPerks/blankShot
