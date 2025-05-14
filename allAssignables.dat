@@ -1,27 +1,6 @@
 #表示名;リンク先ファイル名 の順に記載してください。
 #特にリンク先ファイル名について、意図しない空白にご注意ください。
 *crewmates
-<<<<<<< HEAD
-エージェント (Agent);agent
-ベイト (Bait);bait
-バスカー (Busker);busker
-カノン (Cannon) <bdg s>;cannon
-コレイター (臨床検査技師, Collator) <bdg n>;collator
-コメット (Comet);comet
-ドクター (Doctor);doctor
-ジャスティス (天秤, Justice) <bdg n>;justice
-マッドメイト (Madmate);madmate
-メイヤー (Mayor);mayor
-ネクロマンサー (Necromancer);necromancer
-ナイスゲッサー (Nice Guesser);niceGuesser
-ナイストラッパー (Nice Trapper);niceTrapper
-ノイズメーカー (Noisemaker);noisemaker
-ホスフォラス (Phosphorus);phosphorus
-プロヴォケーター (Provocateur);provocateur
-シア (Seer);seer
-シェリフ (Sheriff);sheriff
-ユビキタス (Ubiquitous);ubiquitous
-=======
 エージェント (Agent);crewmates/agent
 ベイト (Bait);crewmates/bait
 バスカー (Busker);crewmates/busker
@@ -47,7 +26,6 @@
 シア (Seer);crewmates/seer
 シェリフ (Sheriff);crewmates/sheriff
 ユビキタス (Ubiquitous);crewmates/ubiquitous
->>>>>>> f7ac59b (最新版の情報に更新)
 *impostors
 エイリアン (コウモリ, Alien);impostors/alien
 バーサーカー (Berserker);impostors/berserker
