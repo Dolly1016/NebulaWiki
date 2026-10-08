@@ -4,8 +4,8 @@
     "\\assignables",
     "\\assignables\\crewmates",
     "\\assignables\\impostors",
-    "\\assignables\\neutral"
+    "\\assignables\\modifiers"
   ],
-  "SelectedNode": "\\assignables\\neutral\\arsonist.dat",
+  "SelectedNode": "\\assignables\\impostors\\graffiti.dat",
   "PreviewInSolutionExplorer": false
 }

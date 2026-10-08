@@ -1,0 +1,12 @@
+*abstract
+$nameJp
+ダイイングメッセージ
+$nameEn
+DyingMessage
+*configurations
+メッセージの書き込み時間|ダイイングメッセージ記入の制限時間を設定できます。
+*summary
+ダイイングメッセージは死亡時に手書きのメッセージを残すことが出来ます。
+*tips
+$awake
+ダイイングメッセージは自覚できません。
