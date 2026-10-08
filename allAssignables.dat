@@ -10,6 +10,7 @@
 ドクター (Doctor);crewmates/doctor
 ドッペルゲンガー (Doppelganger);crewmates/doppelganger
 エコー (Echo);crewmates/echo
+フィクサー (Fixer);crewmates/fixer
 インヴェスティゲーター (Investigator);crewmates/investigator
 ジキルとハイド (Jekyll & Hyde);crewmates/jekyllAndHyde
 ジャスティス (天秤, Justice);crewmates/justice
@@ -50,7 +51,7 @@
 モーフィング (Morphing);impostors/morphing
 ナイトメア (Nightmare);impostors/nightmare
 ペインター (Painter);impostors/painter
-クアック (Quack) <bdg n>;impostors/quack
+クアック (Quack);impostors/quack
 レイダー (Raider);impostors/raider
 リーパー (Reaper);impostors/reaper
 スカルプター (Sculptor);impostors/sculptor
@@ -58,7 +59,7 @@
 スナイパー (Sniper);impostors/sniper
 スターラー (Stirrer);impostors/stirrer
 サリファー (Thurifer);impostors/thurifer
-ワーミー (Whammy) <bdg n>;impostors/whammy
+ワーミー (Whammy);impostors/whammy
 *neutral
 アーソニスト (Arsonist);neutral/arsonist
 チェインシフター (Chain Shifter);neutral/chainShifter
