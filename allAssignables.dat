@@ -106,6 +106,7 @@
 シークレット (Secret);modifiers/secret
 タイブレイカー (Tie Breaker);modifiers/tieBreaker
 トリレンマ (Trilemma);modifiers/trilemma
+双子 (Twin) <bdg n>;modifiers/twin
 *ghostRoles
 クロッグ (Clog);ghostRoles/clog
 ハルシネーション (Hallucination);ghostRoles/hallucination

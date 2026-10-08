@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\assignables",
-    "\\assignables\\impostors",
-    "\\assignables\\modifiers"
+    "\\assignables\\neutral"
   ],
-  "SelectedNode": "\\assignables\\impostors\\evilSlip.dat",
+  "SelectedNode": "\\assignables\\neutral\\scarlet.dat",
   "PreviewInSolutionExplorer": false
 }
