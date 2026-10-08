@@ -1,0 +1,13 @@
+*abstract
+$nameJp
+イビルスリップ
+$nameEn
+Evil Slip
+*configurations
+すり抜けクールダウン|ドアのすり抜けのクールダウンを設定します。
+*summary
+イビルスリップは閉じているドアをすり抜けられるインポスターです。
+*ability
+$withImage
+images/evilSlipButton.png
+そばの扉をすり抜けます。

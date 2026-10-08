@@ -1,0 +1,13 @@
+*abstract
+$nameJp
+ナイススリップ
+$nameEn
+Nice Slip
+*configurations
+すり抜けクールダウン|ドアのすり抜けのクールダウンを設定します。
+*summary
+ナイススリップは閉じているドアをすり抜けられるクルーメイトです。
+*ability
+$withImage
+images/niceSlipButton.png
+そばの扉をすり抜けます。

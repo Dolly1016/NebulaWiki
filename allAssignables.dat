@@ -19,6 +19,7 @@
 ナヴィ (Navvy);crewmates/navvy
 ネクロマンサー (Necromancer);crewmates/necromancer
 ナイスゲッサー (Nice Guesser);crewmates/niceGuesser
+ナイススリップ (Nice Slip) <bdg n>;crewmates/niceSlip
 ナイススワッパー (Nice Swapper);crewmates/niceSwapper
 ナイストラッカー (Nice Tracker);crewmates/niceTracker
 ナイストラッパー (Nice Trapper);crewmates/niceTrapper
@@ -46,6 +47,7 @@
 ディスターバー (Disturber);impostors/disturber
 イフェイサー (ジャマー, Effacer);impostors/effacer
 イビルゲッサー (Evil Guesser);impostors/evilGuesser
+イビルスリップ (Evil Slip) <bdg n>;impostors/evilSlip
 イビルスワッパー (Evil Swapper);impostors/evilSwapper
 イビルトラッカー (Evil Tracker);impostors/evilTracker
 イビルトラッパー (Evil Trapper);impostors/evilTrapper
@@ -73,7 +75,7 @@
 アーソニスト (Arsonist);neutral/arsonist
 チェインシフター (Chain Shifter);neutral/chainShifter
 ダンサー (Dancer);neutral/dancer
-ギャンブラー (Gambler) <bdg s>;neutral/gambler
+ギャンブラー (Gambler);neutral/gambler
 ジャッカル (Jackal);neutral/jackal
 └ サイドキック (Sidekick);neutral/sidekick
 ジェスター (Jester);neutral/jester
