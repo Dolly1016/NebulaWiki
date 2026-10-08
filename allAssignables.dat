@@ -28,6 +28,7 @@
 サイキック (Psychic);crewmates/psychic
 シア (Seer);crewmates/seer
 シェリフ (Sheriff);crewmates/sheriff
+スパイ (Spy);crewmates/spy
 ユビキタス (Ubiquitous);crewmates/ubiquitous
 *impostors
 エイリアン (コウモリ, Alien);impostors/alien
@@ -76,7 +77,7 @@
 ジェスター (Jester);neutral/jester
 オポチュニスト (Opportunist);neutral/opportunist
 パパラッチ (Paparazzo);neutral/paparazzo
-プレイグ (Plague);neutral.plague
+プレイグ (Plague);neutral/plague
 スカーレット (Scarlet);neutral/scarlet
 妖狐 (Spectre);neutral/spectre
 ├ 子狐 (S. Follower);neutral/spectreFollower
