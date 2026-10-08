@@ -19,6 +19,7 @@
 ナヴィ (Navvy);crewmates/navvy
 ネクロマンサー (Necromancer);crewmates/necromancer
 ナイスゲッサー (Nice Guesser);crewmates/niceGuesser
+ナイススワッパー (Nice Swapper);crewmates/niceSwapper
 ナイストラッパー (Nice Trapper);crewmates/niceTrapper
 ノイズメーカー (Noisemaker);crewmates/noisemaker
 オラクル (Oracle);crewmates/oracle
@@ -43,6 +44,7 @@
 ディスターバー (Disturber);impostors/disturber
 イフェイサー (ジャマー, Effacer);impostors/effacer
 イビルゲッサー (Evil Guesser);impostors/evilGuesser
+イビルスワッパー (Evil Swapper);impostors/evilSwapper
 イビルトラッカー (Evil Tracker);impostors/evilTracker
 イビルトラッパー (Evil Trapper);impostors/evilTrapper
 ギムレット (Gimlet);impostors/gimlet
