@@ -2,9 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\assignables",
-    "\\assignables\\crewmates",
+    "\\assignables\\impostors",
     "\\assignables\\neutral"
   ],
-  "SelectedNode": "\\assignables\\crewmates\\sheriff.dat",
+  "SelectedNode": "\\assignables\\neutral\\chainShifter.dat",
   "PreviewInSolutionExplorer": false
 }
