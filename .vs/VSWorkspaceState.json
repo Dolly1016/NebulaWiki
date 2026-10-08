@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\assignables",
-    "\\assignables\\crewmates",
-    "\\assignables\\impostors"
+    "\\assignables\\crewmates"
   ],
-  "SelectedNode": "\\assignable.html",
+  "SelectedNode": "\\assignables\\crewmates\\climber.dat",
   "PreviewInSolutionExplorer": false
 }
