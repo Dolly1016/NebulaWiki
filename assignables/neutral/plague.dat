@@ -26,6 +26,3 @@ images/plagueSampleButton.png
 $withImage
 images/infectButton.png
 満タンの毒素の瓶をプレイヤーに対して使用すると、プレイヤーを疾病に直接感染させます。
-*tips
-$meetingEnd
-・緊急会議終了から10秒間は、感染の進行が停止します。
