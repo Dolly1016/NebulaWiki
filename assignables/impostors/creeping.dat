@@ -14,7 +14,7 @@ Creeping
 *ability
 $withImage
 images/poisonButton.png
-プレイヤーに毒を仕掛けます。この時、<b>ブリンク</b>が発生します。
+プレイヤーに毒を仕掛けます。このとき<b>ブリンク</b>が発生します。
 緊急会議中にも毒はプレイヤーを蝕みます。
 *tips
 $depoisonBox
