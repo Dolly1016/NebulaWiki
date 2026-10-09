@@ -13,7 +13,6 @@ Nice Tracker
 *summary
 ナイストラッカーは、プレイヤーの移動を追跡するクルーメイトです。
 追跡を開始するには少しの間、プレイヤーのそばに居続ける必要があります。
-追跡を開始するには少しの間、プレイヤーのそばに居続ける必要があります。
 *ability
 $withImage
 images/trackNiceButton.png
