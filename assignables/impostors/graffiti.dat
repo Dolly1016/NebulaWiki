@@ -1,0 +1,13 @@
+*abstract
+$nameJp
+グラフィティ
+$nameEn
+Graffiti
+*configurations
+最大落書き回数|落書きの最大使用回数を設定できます。
+*summary
+グラフィティはダイイングメッセージのような落書きを残せるインポスターです。
+*ability
+$withImage
+images/graffitiButton.png
+専用のミニマップで好きな場所に落書きを残します。

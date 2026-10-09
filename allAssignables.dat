@@ -4,11 +4,13 @@
 エージェント (Agent);crewmates/agent
 ベイト (Bait);crewmates/bait
 バスカー (Busker);crewmates/busker
-クライマー (Climber) <bdg n>;crewmates/climber
+クライマー (Climber);crewmates/climber
 コレイター (臨床検査技師, Collator);crewmates/collator
 コメット (Comet);crewmates/comet
 ドクター (Doctor);crewmates/doctor
+ドッペルゲンガー (Doppelganger);crewmates/doppelganger
 エコー (Echo);crewmates/echo
+フィクサー (Fixer);crewmates/fixer
 インヴェスティゲーター (Investigator);crewmates/investigator
 ジキルとハイド (Jekyll & Hyde);crewmates/jekyllAndHyde
 ジャスティス (天秤, Justice);crewmates/justice
@@ -17,6 +19,9 @@
 ナヴィ (Navvy);crewmates/navvy
 ネクロマンサー (Necromancer);crewmates/necromancer
 ナイスゲッサー (Nice Guesser);crewmates/niceGuesser
+ナイススリップ (Nice Slip) <bdg n>;crewmates/niceSlip
+ナイススワッパー (Nice Swapper);crewmates/niceSwapper
+ナイストラッカー (Nice Tracker);crewmates/niceTracker
 ナイストラッパー (Nice Trapper);crewmates/niceTrapper
 ノイズメーカー (Noisemaker);crewmates/noisemaker
 オラクル (Oracle);crewmates/oracle
@@ -25,21 +30,29 @@
 サイキック (Psychic);crewmates/psychic
 シア (Seer);crewmates/seer
 シェリフ (Sheriff);crewmates/sheriff
+スパイ (Spy);crewmates/spy
 ユビキタス (Ubiquitous);crewmates/ubiquitous
 *impostors
 エイリアン (コウモリ, Alien);impostors/alien
+アマルガム (Amalgam);impostors/amalgam
 バーサーカー (Berserker);impostors/berserker
 バウンティハンター (Bounty Hunter);impostors/bountyHunter
 バブルガン (Bubblegun);impostors/bubblegun
 カモフラージャー (Camouflager);impostors/camouflager
 カノン (Cannon);impostors/cannon
 クリーナー (Cleaner);impostors/cleaner
+クリーピング (Creeping);impostors/creeping
+キューピッド (Cupid);impostors/cupid
 デストロイヤー (Destroyer);impostors/destroyer
 ディスターバー (Disturber);impostors/disturber
 イフェイサー (ジャマー, Effacer);impostors/effacer
 イビルゲッサー (Evil Guesser);impostors/evilGuesser
+イビルスリップ (Evil Slip) <bdg n>;impostors/evilSlip
+イビルスワッパー (Evil Swapper);impostors/evilSwapper
 イビルトラッカー (Evil Tracker);impostors/evilTracker
 イビルトラッパー (Evil Trapper);impostors/evilTrapper
+ギムレット (Gimlet);impostors/gimlet
+グラフィティ (Graffiti);impostors/graffiti
 ハダル (Hadar);impostors/hadar
 イリュージョナー (Illusioner);impostors/illusioner
 ジェイラー (Jailer);impostors/jailer
@@ -47,43 +60,53 @@
 モーフィング (Morphing);impostors/morphing
 ナイトメア (Nightmare);impostors/nightmare
 ペインター (Painter);impostors/painter
-クアック (Quack) <bdg n>;impostors/quack
+クアック (Quack);impostors/quack
 レイダー (Raider);impostors/raider
 リーパー (Reaper);impostors/reaper
-スナッチャー (Snatcher) <bdg s>;impostors/snatcher
+ろくろ首 (Rokurokubi);impostors/rokurokubi
+スカルプター (Sculptor);impostors/sculptor
+スナッチャー (Snatcher);impostors/snatcher
 スナイパー (Sniper);impostors/sniper
 スターラー (Stirrer);impostors/stirrer
 サリファー (Thurifer);impostors/thurifer
-ワーミー (Whammy) <bdg n>;impostors/whammy
+ワーミー (Whammy);impostors/whammy
+ジール (Zeal);impostors/zeal
 *neutral
 アーソニスト (Arsonist);neutral/arsonist
 チェインシフター (Chain Shifter);neutral/chainShifter
 ダンサー (Dancer);neutral/dancer
-ギャンブラー (Gambler) <bdg s>;neutral/gambler
+ギャンブラー (Gambler);neutral/gambler
 ジャッカル (Jackal);neutral/jackal
 └ サイドキック (Sidekick);neutral/sidekick
 ジェスター (Jester);neutral/jester
+オポチュニスト (Opportunist);neutral/opportunist
 パパラッチ (Paparazzo);neutral/paparazzo
+プレイグ (Plague);neutral/plague
 スカーレット (Scarlet);neutral/scarlet
 妖狐 (Spectre);neutral/spectre
 ├ 子狐 (S. Follower);neutral/spectreFollower
 └ 背徳者 (Immoralist);neutral/immoralist
+タイラント (Tyrant);neutral/tyrant
+ヴァニティ (Vanity);neutral/vanity
 ヴァルチャー (Vulture);neutral/vulture
 *modifiers
 ブラッディ (Bloody);modifiers/bloody
 コンフューズド (無能, Confused);modifiers/confused
 ダムド (Damned);modifiers/damned
 ディスクロージャ (Disclosure);modifiers/disclosure
+ダイイングメッセージ (Dying Message);modifiers/dyingMessage
 追加ミッション (Extra Mission);modifiers/extraMission
 ゲッサー (Guesser);modifiers/guesser
 ジェイラー (Jailer);modifiers/jailer
 ラバー (Lover);modifiers/lover
 └ アヴェンジャー (Avenger);neutral/avenger
+ナイティ (Nighty);modifiers/nighty
 マッドメイト (Madmate);modifiers/madmate
 オブセッショナル (Obsessional);modifiers/obsessional
 シークレット (Secret);modifiers/secret
 タイブレイカー (Tie Breaker);modifiers/tieBreaker
 トリレンマ (Trilemma);modifiers/trilemma
+双子 (Twin) <bdg n>;modifiers/twin
 *ghostRoles
 クロッグ (Clog);ghostRoles/clog
 ハルシネーション (Hallucination);ghostRoles/hallucination

@@ -1,0 +1,9 @@
+*abstract
+$nameJp
+イビルスワッパー
+$nameEn
+Evil Swapper
+*configurations
+最大スワップ数|投票をスワップできる最大回数を設定します。
+*summary
+イビルスワッパーは緊急会議中に選択した2人に投じられた票を入れ替えられるインポスターです。
