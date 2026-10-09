@@ -13,7 +13,7 @@ Rokurokubi
 $withImage
 images/rokurokubiButton.png
 首を伸ばします。
-特定のキーを押してる間は、首の伸長がストップします。
+切り替えアクションキー(デフォルトでは左シフト)を押してる間は、首の伸長がストップします。
 $withImage
 images/rokurokubiResetButton.png
 収縮ボタンを押すか、キルすると首の長さが元に戻ります。
