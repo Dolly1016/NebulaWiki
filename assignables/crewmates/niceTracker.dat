@@ -12,6 +12,7 @@ Nice Tracker
 追跡対象の位置を部屋名で表示|オンにすると、矢印ではなく部屋名で追跡します。
 *summary
 ナイストラッカーは、プレイヤーの移動を追跡するクルーメイトです。
+追跡を開始するには少しの間、プレイヤーのそばに居続ける必要があります。
 *ability
 $withImage
 images/trackNiceButton.png
