@@ -2,7 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\assignables",
+    "\\assignables\\modifiers",
     "\\assignables\\neutral"
   ],
+  "SelectedNode": "\\assignables\\modifiers\\dyingMessage.dat",
   "PreviewInSolutionExplorer": false
 }
