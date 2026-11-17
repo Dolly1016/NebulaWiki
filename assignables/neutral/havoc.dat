@@ -22,6 +22,7 @@ $withImage
 images/havocDevourButton.png
 死体を食い荒らし、自身の能力を強化します。
 食い荒らされた死体は見た目が変わり、掴んで運べなくなります。
+$withImage
 images/havocButton.png
 数秒間、死体通報や緊急ボタンをブロックします。
 遠吠えはマップ全体に響き渡りますが、指向性はありません。
